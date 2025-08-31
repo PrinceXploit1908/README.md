@@ -14,16 +14,15 @@ Replace:
 </p>
 <b> About Me :<b>
 
-- 🌱 Fresher diving deep into web app security, Linux, networking, and scripting.  
+- 🌱 Diving deep into web app security, Linux, networking, and scripting. 
 - 🧭 Practicing on TryHackMe and Hack The Box; writing notes and tidy walkthroughs.  
 - 🔍 Interests: Recon, Web Exploitation, Auth/AuthZ flaws, and basic OSINT.   
-- 📜 Certifications: CEH, Master Certification, and CPT (Certified Penetration Tester).  
+- 📜 Certifications: CEH (Certified Ethical Hacker), Master Certification, and CPT (Certified Penetration Tester).  
 - 💻 Skills: Strong knowledge of Python, SQL, and .NET development.  
 - 🕵️ Currently active on bug bounty platforms like HackerOne and Bugcrowd.
-- 🎯 Goal: Land a junior security role and contribute to open-source security projects.
 
  <p align="center">
-  <b>Ethical Hacker (Fresher)</b> • CTF Learner • Bug Bounty Beginner • Security Enthusiast
+  <b>Ethical Hacker </b> • CTF Learner • Bug Bounty • Security Enthusiast
 </p>
 
 
