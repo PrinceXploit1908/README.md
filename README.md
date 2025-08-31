@@ -7,13 +7,14 @@ Replace:
 
 <!-- Top Greeting -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!!%F0%9F%91%8B;i'm+prince+%F0%9F%98%8E)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hey hi, I'm Prince!" width="420" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!!+;I'm+Prince+%F0%9F%98%8E" alt="Typing SVG" />
+  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave gif"/>
 </p>
 
-<p align="center">
+ <p align="center">
   <b>Ethical Hacker (Fresher)</b> • CTF Learner • Bug Bounty Beginner • Security Enthusiast
 </p>
 
