@@ -29,34 +29,7 @@
 
 ---
 
-## 🚀 Learning Journey  
 
-- 📘 Currently: Web Pentesting workflows, Recon Automation, and Custom Scripts.  
-- 🧰 Labs: TryHackMe, HackTheBox, PortSwigger, OverTheWire.  
-- 📝 Approach: Checklist-driven → Recon → Scan → Enumerate → Exploit → Report.  
-
----
-
-## 📂 Projects  
-
-- 🔎 **Recon Toolkit** → CLI scripts for subdomain + directory enum — [Repo](https://github.com/USERNAME/recon-toolkit)  
-- 📒 **VulnLab Notes** → Structured markdown notes for labs & CTFs — [Repo](https://github.com/USERNAME/vuln-notes)  
-- 🛡️ **WebSec Demos** → Intentional vuln apps for practice — [Repo](https://github.com/USERNAME/websec-demos)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
-</p>
-
----
 
 ## 🤝 Let’s Connect  
 
