@@ -18,12 +18,26 @@ Replace:
 </p>
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Whitehat-2ea44f?logo=shield&logoColor=white" alt="Ethical Hacker badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-8A2BE2" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Focus-OWASP%20Top%2010-orange" alt="OWASP focus" />
-  <img src="https://img.shields.io/badge/Linux-🐧-black" alt="Linux badge" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=00FF41&style=flat-square" alt="profile views" />
+
+  <!-- Role Badge -->
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-Whitehat-00FF41?style=flat-square&logo=hackaday&logoColor=white" alt="Ethical Hacker badge" />
+
+  <!-- Availability -->
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-1E90FF?style=flat-square&logo=telegram&logoColor=white" alt="Open to work" />
+
+  <!-- Security Focus -->
+  <img src="https://img.shields.io/badge/Focus-OWASP%20Top%2010-FF4500?style=flat-square&logo=owasp&logoColor=white" alt="OWASP focus" />
+
+  <!-- Linux Badge -->
+  <img src="https://img.shields.io/badge/Linux-Penguin-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux badge" />
+
+  <!-- Bug Bounty Platforms -->
+  <img src="https://img.shields.io/badge/Bug%20Bounty-HackerOne-9C27B0?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne badge" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-Bugcrowd-FE7616?style=flat-square&logo=bugcrowd&logoColor=white" alt="Bugcrowd badge" />
 </p>
+
 
 <b> About Me :<b>
 
