@@ -20,6 +20,7 @@ Replace:
 
 
 
+
  <p align="center">
   <b>Ethical Hacker (Fresher)</b> • CTF Learner • Bug Bounty Beginner • Security Enthusiast
 </p>
