@@ -14,12 +14,14 @@ Replace:
 </p>
 <b> About Me :<b>
 
-- 🌱 Diving deep into web app security, Linux, networking, and scripting. 
-- 🧭 Practicing on TryHackMe and Hack The Box; writing notes and tidy walkthroughs.  
-- 🔍 Interests: Recon, Web Exploitation, Auth/AuthZ flaws, and basic OSINT.   
+- 🌱 Diving deep into web app security, Linux, networking, and scripting.  
+- 🔍 Interests: Recon, Web Exploitation, Auth/AuthZ flaws, and basic OSINT.  
 - 📜 Certifications: CEH (Certified Ethical Hacker), Master Certification, and CPT (Certified Penetration Tester).  
 - 💻 Skills: Strong knowledge of Python, SQL, and .NET development.  
-- 🕵️ Currently active on bug bounty platforms like HackerOne and Bugcrowd.
+- 🛠️ Hands-on experience with popular hacking tools (Burp Suite, Metasploit, Nmap, Nessus, etc.).  
+- 🕵️ Actively working on PortSwigger labs and participating in bug bounty programs on HackerOne and Bugcrowd.
+- 🧭 Practicing on TryHackMe and Hack The Box.
+
 
  <p align="center">
   <b>Ethical Hacker </b> • CTF Learner • Bug Bounty • Security Enthusiast
