@@ -18,10 +18,6 @@ Replace:
   <b>Ethical Hacker (Fresher)</b> • CTF Learner • Bug Bounty Beginner • Security Enthusiast
 </p>
 
-<!-- Hero GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6wrvdHFbwBrUFenu/giphy.gif" alt="Hacker matrix code" width="600" />
-</p>
 
 <!-- Badges -->
 <p align="center">
