@@ -7,7 +7,8 @@ Replace:
 
 <!-- Top Greeting -->
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!!;i'm+prince+&#128526;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!!+%F0%9F%91%8B;i'm+prince+%F0%9F%98%8E)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hey hi, I'm Prince!" width="420" />
 </p>
