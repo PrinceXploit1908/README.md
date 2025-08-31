@@ -12,7 +12,16 @@ Replace:
     <img src="https://readme-typing-svg.demolab.com?font=Italianno&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!!+%F0%9F%91%8B;I'm+Prince+%F0%9F%98%8E" alt="Typing SVG" />
   </a>
 </p>
+---
 
+## About Me
+🌱 Fresher diving deep into web app security, Linux, networking, and scripting.  
+🧭 Practicing on TryHackMe and Hack The Box; writing notes and tidy walkthroughs.  
+🔍 Interests: Recon, Web Exploitation, Auth/AuthZ flaws, and basic OSINT.   
+📜 Certifications: CEH, Master Certification, and CPT (Certified Penetration Tester).  
+💻 Skills: Strong knowledge of Python, SQL, and .NET development.  
+🕵️ Currently active on bug bounty platforms like HackerOne and Bugcrowd.
+🎯 Goal: Land a junior security role and contribute to open-source security projects.
 
  <p align="center">
   <b>Ethical Hacker (Fresher)</b> • CTF Learner • Bug Bounty Beginner • Security Enthusiast
@@ -30,13 +39,6 @@ Replace:
 
 ---
 
-## About Me
-
-- 🌱 Fresher diving deep into web app security, Linux, networking, and scripting.
-- 🧭 Practicing on TryHackMe and Hack The Box; writing notes and tidy walkthroughs.
-- 🔍 Interests: Recon, Web Exploitation, Auth/AuthZ flaws, and basic OSINT.
-- 🧪 I only test systems I own or have explicit permission to test. Ethics first. Always.
-- 🎯 Goal: Land a junior security role and contribute to open‑source security projects.
 
 <p align="left">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="typing code" width="320" />
