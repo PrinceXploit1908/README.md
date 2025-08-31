@@ -13,7 +13,7 @@
 <!-- Typing SVG Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hey+there+👋;I'm+Prince+😎;Ethical+Hacker+%7C+Bug+Bounty+Hunter+%7C+CTF+Learner" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hey+there+👋;I'm+Prince+😎;Ethical+Hacker+%7C+Bug+Bounty+Hunter+%7C+CTF+Learner" alt="Typing svg" />
   </a>
 </p>
 
