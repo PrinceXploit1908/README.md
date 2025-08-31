@@ -24,17 +24,7 @@
 
 ## ⚡ Skills & Tools  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.simpleicons.org/nmap/0e76a8" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6F00" height="40" />
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/Nmap-0e76a8?style=flat&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
 
 ---
