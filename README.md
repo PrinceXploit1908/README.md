@@ -43,15 +43,8 @@ Replace:
 - 💻 Skills: Strong knowledge of Python, SQL, and .NET development.  
 - 🛠️ Hands-on experience with popular hacking tools (Burp Suite, Metasploit, Nmap, Nessus, etc.).  
 - 🕵️ Actively working on PortSwigger labs and participating in bug bounty programs on HackerOne and Bugcrowd.
-- 🧭 Practicing on TryHackMe and Hack The Box.
+- 🧭 Practicing on TryHackMe and Hack The Box
 
-
----
-
-
-<p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="typing code" width="320" />
-</p>
 
 ---
 
