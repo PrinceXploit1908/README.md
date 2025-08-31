@@ -9,14 +9,6 @@
  <p align="center">
   <b>Ethical Hacker </b> • CTF Learner • Bug Bounty • Security Enthusiast
 </p>
-
-<!-- Typing SVG Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hey+there+👋;I'm+Prince+😎;Ethical+Hacker+%7C+Bug+Bounty+Hunter+%7C+CTF+Learner" alt="Typing svg" />
-  </a>
-</p>
-
 ---
 
 ## 🛡️ About Me  
@@ -33,16 +25,17 @@
 ## ⚡ Skills & Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nmap-0e76a8?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Nmap-0e76a8?style=flat&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
@@ -52,10 +45,6 @@
 - 🧰 Labs: TryHackMe, HackTheBox, PortSwigger, OverTheWire.  
 - 📝 Approach: Checklist-driven → Recon → Scan → Enumerate → Exploit → Report.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="hacking gif" width="280" />
-</p>
-
 ---
 
 ## 📂 Projects  
@@ -63,14 +52,6 @@
 - 🔎 **Recon Toolkit** → CLI scripts for subdomain + directory enum — [Repo](https://github.com/USERNAME/recon-toolkit)  
 - 📒 **VulnLab Notes** → Structured markdown notes for labs & CTFs — [Repo](https://github.com/USERNAME/vuln-notes)  
 - 🛡️ **WebSec Demos** → Intentional vuln apps for practice — [Repo](https://github.com/USERNAME/websec-demos)  
-
----
-
-## ✍️ Write-ups  
-
-- 🏴‍☠️ TryHackMe: [Room Write-up](https://github.com/USERNAME/writeups/blob/main/tryhackme/ROOM.md)  
-- 💻 HackTheBox: [Machine Write-up](https://github.com/USERNAME/writeups/blob/main/htb/MACHINE.md)  
-- 🔐 Web Vuln: [IDOR 101 Blog](https://github.com/USERNAME/blog/blob/main/idor-101.md)  
 
 ---
 
@@ -89,15 +70,9 @@
 
 ## 🤝 Let’s Connect  
 
-- 📫 Email: **your.email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- 🐦 Twitter/X: [x.com/your-handle](https://x.com/your-handle)  
-- 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)  
+- 📫 Email: **princejd1908@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/princedavid97)  
+- 🐦 Twitter/X: [x.com/your-handle](@jd_the_reddevil) 
 
 ---
 
-## ⚡ Fun Quote  
-
-> *“I break things to make them stronger. Carefully. Legally. With permission. 😄”*  
-
----
