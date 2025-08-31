@@ -12,6 +12,19 @@ Replace:
     <img src="https://readme-typing-svg.demolab.com?font=Italianno&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!!+%F0%9F%91%8B;I'm+Prince+%F0%9F%98%8E" alt="Typing SVG" />
   </a>
 </p>
+
+ <p align="center">
+  <b>Ethical Hacker </b> • CTF Learner • Bug Bounty • Security Enthusiast
+</p>
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-Whitehat-2ea44f?logo=shield&logoColor=white" alt="Ethical Hacker badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-8A2BE2" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Focus-OWASP%20Top%2010-orange" alt="OWASP focus" />
+  <img src="https://img.shields.io/badge/Linux-🐧-black" alt="Linux badge" />
+</p>
+
 <b> About Me :<b>
 
 - 🌱 Diving deep into web app security, Linux, networking, and scripting.  
@@ -22,20 +35,6 @@ Replace:
 - 🕵️ Actively working on PortSwigger labs and participating in bug bounty programs on HackerOne and Bugcrowd.
 - 🧭 Practicing on TryHackMe and Hack The Box.
 
-
- <p align="center">
-  <b>Ethical Hacker </b> • CTF Learner • Bug Bounty • Security Enthusiast
-</p>
-
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Whitehat-2ea44f?logo=shield&logoColor=white" alt="Ethical Hacker badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-8A2BE2" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Focus-OWASP%20Top%2010-orange" alt="OWASP focus" />
-  <img src="https://img.shields.io/badge/Linux-🐧-black" alt="Linux badge" />
-</p>
 
 ---
 
